@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;testng.xml&apos; to &apos;seleniumwebdriver/src/test/java/seleniumwebdriver.seleniumwebdriver&apos;&#x0D;&#x0A;- Original project: &apos;seleniumwebdriver&apos;&#x0D;&#x0A;- Destination element: &apos;seleniumwebdriver/src/test/java/seleniumwebdriver.seleniumwebdriver&apos;&#x0D;&#x0A;- Original element: &apos;testng.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src\/test\/java=/test=/true=/=/optional=/true=/=/maven.pomderived=/true=/&lt;seleniumwebdriver.seleniumwebdriver" element1="src/test/java/seleniumwebdriver/testng.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1768586628069" units="0" version="1.0"/>
+</session>

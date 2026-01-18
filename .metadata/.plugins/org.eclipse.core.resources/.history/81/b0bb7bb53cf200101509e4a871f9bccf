@@ -1,0 +1,33 @@
+package seleniumwebdriver.seleniumwebdriver;
+
+/*
+1) Open app
+2) Test logo presence
+3) Login
+4) Close
+*/
+import org.testng.annotations.Test;
+
+public class OrangeHRMTest {
+	@Test(priority = 1)
+	void openapp() 
+	{
+		WebDriver driver= new ChromeDriver();
+		driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+	}
+	
+	@Test(priority = 2)
+	void testlogo() {
+		
+	}
+	
+	@Test(priority = 3)
+	void testlogin() {
+		
+	}
+	
+	@Test(priority = 4)
+	void testlogout() {
+		
+	}
+}
